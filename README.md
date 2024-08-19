@@ -41,14 +41,15 @@ https://www.exploit-db.com/exploits/30020
   
 *Приведите ответ в свободной форме.*  
 977 портов закрыты - 23 открыты
-![Image alt]()
+![Image alt](https://github.com/niko0la/attacks_metasploitable/blob/main/1-1.png)
 
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
 Запишите сеансы сканирования в Wireshark.
-
+![Image alt](https://github.com/niko0la/attacks_metasploitable/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/attacks_metasploitable/blob/main/2-2.png)
 Ответьте на следующие вопросы:
 
 - Чем отличаются эти режимы сканирования с точки зрения сетевого трафика?
